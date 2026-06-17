@@ -5,6 +5,12 @@
 最終更新: 2026-06-18  
 状態: 外部共有用の短縮版。本文全文、画像素材、未整理メモは含めない。
 
+## Codex別窓用入口
+
+- 設定レビューや全体把握: この `README.md`
+- 画像生成・キャラクター素材整理専用: [`image-generation-window-brief.md`](./image-generation-window-brief.md)
+- GPTレビュー依頼文: [`gpt-review-request.md`](./gpt-review-request.md)
+
 ## 作品タイトル
 
 `account`
