@@ -1,0 +1,7 @@
+*.tmp
+*.log
+node_modules/
+dist/
+output/
+generated-assets/
+characters/images/
